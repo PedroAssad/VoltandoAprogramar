@@ -1,0 +1,1 @@
+console.log('Olá, mundo! Estoude voltando a programar em JavaScript.');
