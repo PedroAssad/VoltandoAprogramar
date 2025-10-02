@@ -1,1 +1,1 @@
-console.log('Olá, mundo! Estoude voltando a programar em JavaScript.');
+console.log('Olá, mundo! Estou de volta  a programar em JavaScript.');
